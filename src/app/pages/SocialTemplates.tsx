@@ -65,9 +65,9 @@ export function SocialTemplates() {
     <div className="min-h-screen" style={{ background: BG, fontFamily: "'Noto Sans KR', sans-serif" }}>
       {/* Header */}
       <div style={{ background: DK }} className="px-12 pt-16 pb-12">
-        <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 10, letterSpacing: "0.22em", color: AC2, marginBottom: 12 }}>B. SOCIAL TEMPLATES</div>
+        <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 10, letterSpacing: "0.22em", color: "#FFFFFF", marginBottom: 12 }}>B. SOCIAL TEMPLATES</div>
         <h1 style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 48, fontWeight: 300, letterSpacing: "0.02em", color: BG, lineHeight: 1.2 }}>
-          Social Media<br /><span style={{ color: AC2 }}>Templates</span>
+          Social Media<br /><span style={{ color: "#FFFFFF" }}>Templates</span>
         </h1>
         <p style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 13, color: MID, marginTop: 16, letterSpacing: "0.04em", fontWeight: 300 }}>
           인스타그램 피드 · 릴스 · 카드뉴스 — @103moment 베이지 × 브라운 × 그린 팔레트

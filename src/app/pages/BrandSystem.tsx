@@ -71,11 +71,11 @@ export function BrandSystem() {
       <div style={{ background: DK }} className="px-12 pt-14 pb-12">
         <div className="flex items-start gap-10">
           <div className="flex-1">
-            <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 10, letterSpacing: "0.22em", color: AC2, marginBottom: 12 }}>
+            <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 10, letterSpacing: "0.22em", color: "#FFFFFF", marginBottom: 12 }}>
               A. BRAND SYSTEM
             </div>
             <h1 style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 48, fontWeight: 300, letterSpacing: "0.02em", color: "#F5F0E8", lineHeight: 1.2, marginBottom: 8 }}>
-              @103moment<br /><span style={{ color: AC2 }}>Brand Identity</span>
+              @103moment<br /><span style={{ color: "#FFFFFF" }}>Brand Identity</span>
             </h1>
             <p style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 13, color: "#6B5D50", marginTop: 16, letterSpacing: "0.04em", fontWeight: 300 }}>
               공간 철학 × 라이프스타일 인사이트 — 브랜드 디자인 시스템 v2.0
