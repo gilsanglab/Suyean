@@ -1,4 +1,4 @@
-import referenceImg from "figma:asset/2f45f2338902f49156a39251baaf5bb63cfd575f.png";
+import referenceImg from "@/assets/2f45f2338902f49156a39251baaf5bb63cfd575f.png";
 
 // ─── @103moment Palette (extracted from reference photo) ─────────────────────
 const colors = [
