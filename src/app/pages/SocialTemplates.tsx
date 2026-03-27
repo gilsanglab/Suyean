@@ -119,7 +119,7 @@ function FeedTemplate() {
               <div style={{ position: "absolute", inset: 0, background: `linear-gradient(to top, ${DK} 35%, transparent 75%)` }} />
               {/* Top */}
               <div style={{ position: "absolute", top: 0, left: 0, right: 0, padding: "48px 60px", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-                <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: BG, letterSpacing: "0.02em", fontWeight: 300 }}>우리가 머무는 공간에 대하여 |</span>
+                <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: "#FFFFFF", letterSpacing: "0.02em", fontWeight: 300 }}>우리가 머무는 공간에 대하여 |</span>
                 <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 14, color: AC2, letterSpacing: "0.18em" }}>@103MOMENT</span>
               </div>
               {/* Bottom */}
@@ -151,7 +151,7 @@ function FeedTemplate() {
               <div style={{ padding: "52px 60px" }}>
                 <div style={{ display: "flex", alignItems: "center", gap: 20, marginBottom: 28 }}>
                   <div style={{ width: 40, height: 2, background: AC }} />
-                  <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 14, color: AC, letterSpacing: "0.16em" }}>공간 관찰</span>
+                  <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 14, color: "#FFFFFF", letterSpacing: "0.16em" }}>공간 관찰</span>
                 </div>
                 <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 72, fontWeight: 300, color: DK, lineHeight: 1.15, letterSpacing: "0.01em", marginBottom: 20 }}>
                   나만의 시간을<br />찾는 공간
@@ -187,7 +187,7 @@ function ReelsTemplate() {
                 <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 28, fontWeight: 300, color: BG, letterSpacing: "0.02em" }}>@103moment</span>
               </div>
               <div style={{ position: "absolute", top: "50%", left: 0, right: 0, transform: "translateY(-50%)", padding: "0 80px", textAlign: "center" }}>
-                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: CREAM, letterSpacing: "0.24em", marginBottom: 30 }}>공간 관찰</div>
+                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: "#FFFFFF", letterSpacing: "0.24em", marginBottom: 30 }}>공간 관찰</div>
                 <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 100, fontWeight: 300, color: BG, lineHeight: 1.1, letterSpacing: "0.01em", marginBottom: 30 }}>
                   나를 신경쓰지 않는<br />과외선생님처럼
                 </div>
@@ -262,7 +262,7 @@ function CardCoverTemplate() {
                   <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 32, fontWeight: 300, color: AC }}>01</span>
                 </div>
                 <div style={{ width: 40, height: 2, background: AC, marginBottom: 32 }} />
-                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: AC2, letterSpacing: "0.18em", marginBottom: 24 }}>공간 관찰 ①</div>
+                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 20, color: "#FFFFFF", letterSpacing: "0.18em", marginBottom: 24 }}>공간 관찰 ①</div>
                 <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 86, fontWeight: 300, color: BG, lineHeight: 1.1, letterSpacing: "0.01em" }}>
                   나가라는<br />신호가 없다
                 </div>
@@ -294,7 +294,7 @@ function CardCoverTemplate() {
                 <img src={IMG_6} style={{ width: "100%", height: "100%", objectFit: "cover" }} alt="" />
               </div>
               <div style={{ padding: "52px 60px" }}>
-                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 18, color: AC, letterSpacing: "0.16em", marginBottom: 24 }}>공간 관찰</div>
+                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 18, color: "#FFFFFF", letterSpacing: "0.16em", marginBottom: 24 }}>공간 관찰</div>
                 <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 74, fontWeight: 300, color: DK, lineHeight: 1.15, letterSpacing: "0.01em" }}>
                   나만의 시간을<br />찾는 공간
                 </div>
@@ -323,7 +323,7 @@ function CardBodyATemplate() {
                     <div style={{ width: 50, height: 50, background: AC, display: "flex", alignItems: "center", justifyContent: "center" }}>
                       <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 16, color: "#FFFFFF" }}>02</span>
                     </div>
-                    <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 16, color: AC, letterSpacing: "0.16em" }}>공간 관찰 ②</span>
+                    <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 16, color: "#FFFFFF", letterSpacing: "0.16em" }}>공간 관찰 ②</span>
                   </div>
                   <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 14, color: MID, letterSpacing: "0.12em" }}>2 / 6</span>
                 </div>
@@ -369,7 +369,7 @@ function CardBodyBTemplate() {
                     <div style={{ width: 70, height: 70, border: `2px solid ${AC}`, display: "flex", alignItems: "center", justifyContent: "center" }}>
                       <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 28, fontWeight: 300, color: AC }}>03</span>
                     </div>
-                    <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 16, color: AC, letterSpacing: "0.16em" }}>공간 관찰 ③</span>
+                    <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 16, color: "#FFFFFF", letterSpacing: "0.16em" }}>공간 관찰 ③</span>
                   </div>
                   <span style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 14, color: MID, letterSpacing: "0.12em" }}>3 / 6</span>
                 </div>

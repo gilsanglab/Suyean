@@ -311,7 +311,7 @@ export function BrandSystem() {
               <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 9, letterSpacing: "0.18em", color: "#6B5D50", marginBottom: 16 }}>LABELS / TAGS</div>
               <div className="flex flex-wrap gap-3 items-center">
                 {[
-                  { text: "공간 관찰", bg: DK, color: "#F5F0E8" },
+                  { text: "공간 관찰", bg: DK, color: "#FFFFFF" },
                   { text: "인사이트", bg: AC, color: "#FFFFFF" },
                   { text: "라이프스타일", bg: "#E8DDD0", color: "#4A4A4A" },
                   { text: "공간 철학", bg: "#FFFFFF", color: "#6B5D50", border: "#D4C4B0" },
@@ -391,7 +391,7 @@ export function BrandSystem() {
             <div className="bg-white border p-6" style={{ borderColor: "#E8DDD0" }}>
               <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 8, color: "#6B5D50", letterSpacing: "0.16em", marginBottom: 16 }}>COMPONENT — Quote / Highlight Block</div>
               <div style={{ borderLeft: `3px solid ${AC}`, paddingLeft: 20, paddingTop: 4, paddingBottom: 4 }}>
-                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 22, fontWeight: 300, color: DK, lineHeight: 1.6, letterSpacing: "0.01em" }}>
+                <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 22, fontWeight: 300, color: "#FFFFFF", lineHeight: 1.6, letterSpacing: "0.01em" }}>
                   "공간은 우리가 머무는 곳이 아니라,<br />우리를 이해하는 곳입니다."
                 </div>
                 <div style={{ fontFamily: "'Noto Sans KR', sans-serif", fontSize: 9, color: "#6B5D50", letterSpacing: "0.14em", marginTop: 10 }}>
